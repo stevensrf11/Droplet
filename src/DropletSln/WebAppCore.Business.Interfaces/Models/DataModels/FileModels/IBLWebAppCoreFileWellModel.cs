@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WebAppCore.Business.Interfaces.Models.DataModels.FileModels
+﻿namespace WebAppCore.Business.Interfaces.Models.DataModels.FileModels
 {
     /// <summary>
     /// IBLWebAppCoreFileWellModel business layer file interface model
